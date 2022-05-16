@@ -38,8 +38,6 @@ yarn-error.log*
 /test-results/
 /playwright-report/
 /playwright/.cache/
-cypress
-prisma
 src/server
 src/data
 src/hook
